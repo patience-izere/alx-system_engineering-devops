@@ -1,4 +1,2 @@
 #!/bin/bash
-tail /var/log/syslog
-
-
+cat /etc/passwd | tail
